@@ -1,0 +1,69 @@
+<svg width="132" height="132" viewBox="0 0 132 132" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_45_616)">
+<g filter="url(#filter1_d_45_616)">
+<circle cx="66" cy="62" r="42" fill="white"/>
+</g>
+<circle cx="66" cy="62" r="34" fill="#002B5B"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M60.8835 51.8829H71.1128C72.7712 51.8829 74.2778 52.576 75.3673 53.697C76.4602 54.8181 77.136 56.3634 77.136 58.0609V65.2079C77.136 66.9089 76.4602 68.4543 75.3673 69.5718C74.2744 70.6928 72.7677 71.386 71.1128 71.386H60.8835C59.2252 71.386 57.7186 70.6893 56.6291 69.5718C55.5362 68.4508 54.8604 66.9054 54.8604 65.2079V58.0609C54.8604 56.3599 55.5362 54.8145 56.6291 53.697C57.7186 52.576 59.2252 51.8829 60.8835 51.8829ZM65.9999 82.7484C68.8546 82.7484 71.5645 82.1259 74.0123 81.0049L71.5507 75.3043C71.1163 75.3573 70.6715 75.3821 70.2233 75.3821H61.7799C61.2214 75.3821 60.6732 75.3396 60.1354 75.2618L57.7117 80.8741C60.2285 82.0764 63.0383 82.7484 65.9999 82.7484ZM75.7396 80.1067C81.68 76.6304 85.6828 70.074 85.6828 62.5592C85.6828 51.409 76.8705 42.37 65.9999 42.37C55.1293 42.37 46.317 51.409 46.317 62.5592C46.317 69.9608 50.2026 76.4324 55.9947 79.9475L58.2185 74.8021C56.467 74.2151 54.8949 73.2107 53.6192 71.9023C51.5265 69.7557 50.2267 66.7922 50.2267 63.5317V61.6362H52.1643V63.5317C52.1643 66.2441 53.2469 68.7089 54.988 70.4948C56.7325 72.2842 59.1356 73.3911 61.7765 73.3911H70.2199C72.8643 73.3911 75.2673 72.2807 77.0084 70.4948C78.7529 68.7054 79.8321 66.2405 79.8321 63.5317V61.6362H81.7697V63.5317C81.7697 66.7922 80.4699 69.7557 78.3771 71.9023C77.0291 73.285 75.3535 74.3282 73.4849 74.8976L75.7396 80.1067ZM71.1128 53.8703H60.8835C59.7596 53.8703 58.7391 54.3406 57.9978 55.101C57.2566 55.8613 56.798 56.9081 56.798 58.0609V65.2079C56.798 66.3608 57.2566 67.4076 57.9978 68.1679C58.7391 68.9282 59.7596 69.3985 60.8835 69.3985H71.1128C72.2368 69.3985 73.2573 68.9282 73.9986 68.1679C74.7398 67.4076 75.1984 66.3608 75.1984 65.2079V58.0609C75.1984 56.9081 74.7398 55.8613 73.9986 55.101C73.2573 54.3406 72.2368 53.8703 71.1128 53.8703ZM65.9999 84.8525C78.0048 84.8525 87.7376 74.8693 87.7376 62.5556C87.7376 50.2455 78.0048 40.2623 65.9999 40.2623C53.995 40.2623 44.2622 50.2455 44.2622 62.5592C44.2622 74.8728 53.995 84.8525 65.9999 84.8525Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_45_616" x="20" y="16" width="92" height="92" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_45_616"/>
+<feOffset/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.01 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_45_616"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_45_616" result="shape"/>
+</filter>
+<filter id="filter1_d_45_616" x="0" y="0" width="132" height="132" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="12"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_45_616"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_45_616" result="shape"/>
+</filter>
+</defs>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>

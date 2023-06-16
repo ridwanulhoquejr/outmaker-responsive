@@ -1,0 +1,64 @@
+<svg width="98" height="98" viewBox="0 0 98 98" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_d_45_585)">
+<circle cx="49" cy="49" r="45" fill="#E1F5FA"/>
+<g clip-path="url(#clip0_45_585)">
+<path d="M65.8887 56.6522L68.1975 54.4922C68.6019 54.1144 68.6447 53.456 68.2908 53.0226C67.9382 52.5892 67.3237 52.5448 66.918 52.9226L62.6649 56.9008C62.4549 57.0981 62.333 57.3842 62.333 57.6856C62.333 57.987 62.4549 58.2732 62.6662 58.4704L66.9193 62.4472C67.1047 62.6195 67.3315 62.7042 67.5584 62.7042C67.8293 62.7042 68.0989 62.5834 68.2908 62.3472C68.6434 61.9138 68.6019 61.2554 68.1975 60.8776L65.9186 58.7468C69.3175 58.8566 72.0539 61.8972 72.0539 65.6392V68.2909C72.0539 68.866 72.4895 69.3327 73.0262 69.3327C73.5628 69.3327 73.9997 68.8674 73.9997 68.2923V65.6406C73.9997 60.7359 70.3752 56.7425 65.8887 56.6522V56.6522Z" fill="#3CB5CF"/>
+<path d="M48.2083 26L38.0833 26.0417C36.7708 26.0417 35.5417 26.7708 34.9167 27.9167L29.625 37.5L47.1875 37.4583L48.2083 26Z" fill="#3CB5CF"/>
+<path d="M69.9997 37.4173L64.6455 27.834C63.9997 26.6882 62.7913 25.959 61.458 25.959L51.333 26.0007L52.3955 37.459L69.9997 37.4173Z" fill="#3CB5CF"/>
+<path d="M70.667 47.209C70.042 46.959 69.3545 46.834 68.6462 46.834C67.2712 46.834 65.9378 47.334 64.8753 48.2507L58.042 54.209C56.792 55.2923 56.0837 56.8757 56.0837 58.5215C56.0837 60.1882 56.792 61.7507 58.042 62.8548L63.542 67.6465L32.3545 67.7298C32.3337 67.7298 32.3337 67.7298 32.3337 67.7298C30.542 67.7298 29.0628 66.2507 29.0628 64.4382L28.9795 40.6257L48.2503 40.584H51.3753L70.6462 40.5215L70.667 47.209Z" fill="#3CB5CF"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_45_585" x="0" y="0" width="98" height="98" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feMorphology radius="4" operator="dilate" in="SourceAlpha" result="effect1_dropShadow_45_585"/>
+<feOffset/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.01 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_45_585"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_45_585" result="shape"/>
+</filter>
+<clipPath id="clip0_45_585">
+<rect width="50" height="50" fill="white" transform="translate(29 26)"/>
+</clipPath>
+</defs>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>
